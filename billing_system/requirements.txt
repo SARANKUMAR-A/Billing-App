@@ -1,0 +1,13 @@
+Django==5.0.6
+djangorestframework==3.15.1
+django-cors-headers==4.3.1
+
+# PostgreSQL
+psycopg2-binary==2.9.9
+
+# Excel Processing
+pandas==2.2.2
+openpyxl==3.1.2
+
+# Environment Variables
+python-dotenv==1.0.1
